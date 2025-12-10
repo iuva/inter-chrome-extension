@@ -1,0 +1,9 @@
+{
+  "name": "com.realvnc.vncviewer",
+  "description": "RealVNC Launcher Native Messaging Host",
+  "path": "F:/sourcePc/cpu-test-browser-extension/native-host/realvnc_launcher.bat",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://jdableoknenehagpnlbonflojcphdmnd/"
+  ]
+}

@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="899338a7-30ec-452a-8aa3-676212903030" name="更改" comment="初始化">
-      <change beforePath="$PROJECT_DIR$/src/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/content.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,28 +13,28 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="35" />
+    <option name="cachedIndexableFilesCount" value="24" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "iuva"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;iuva&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/iuva/inter-chrome-extension.git",
-    "accountId": "1d0d95f8-281c-45bf-a4eb-e61174fc7c46"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/iuva/inter-chrome-extension.git&quot;,
+    &quot;accountId&quot;: &quot;1d0d95f8-281c-45bf-a4eb-e61174fc7c46&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="36dlhwckexdLLzJjyYWK0sNU7AO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -46,8 +45,10 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,7 +71,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765344452364</updated>
-      <workItem from="1765344453534" duration="3362000" />
+      <workItem from="1765344453534" duration="13077000" />
+      <workItem from="1765418787860" duration="5195000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <option name="closed" value="true" />
@@ -88,7 +90,223 @@
       <option name="project" value="LOCAL" />
       <updated>1765348898758</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765349443802</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1765349443802</updated>
+    </task>
+    <task id="LOCAL-00004" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765349646129</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765349646129</updated>
+    </task>
+    <task id="LOCAL-00005" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765350186260</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1765350186260</updated>
+    </task>
+    <task id="LOCAL-00006" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765351412439</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1765351412439</updated>
+    </task>
+    <task id="LOCAL-00007" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765358668283</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1765358668283</updated>
+    </task>
+    <task id="LOCAL-00008" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765359169193</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1765359169193</updated>
+    </task>
+    <task id="LOCAL-00009" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765359376250</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1765359376250</updated>
+    </task>
+    <task id="LOCAL-00010" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765359920139</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1765359920139</updated>
+    </task>
+    <task id="LOCAL-00011" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765360361892</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1765360361892</updated>
+    </task>
+    <task id="LOCAL-00012" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765362554532</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1765362554532</updated>
+    </task>
+    <task id="LOCAL-00013" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765362768839</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1765362768839</updated>
+    </task>
+    <task id="LOCAL-00014" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765363076214</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1765363076214</updated>
+    </task>
+    <task id="LOCAL-00015" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765364032449</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1765364032449</updated>
+    </task>
+    <task id="LOCAL-00016" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765370801721</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1765370801721</updated>
+    </task>
+    <task id="LOCAL-00017" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765370921392</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1765370921392</updated>
+    </task>
+    <task id="LOCAL-00018" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765371046444</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1765371046444</updated>
+    </task>
+    <task id="LOCAL-00019" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765418802892</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1765418802892</updated>
+    </task>
+    <task id="LOCAL-00020" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765420961555</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1765420961555</updated>
+    </task>
+    <task id="LOCAL-00021" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765421157456</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1765421157456</updated>
+    </task>
+    <task id="LOCAL-00022" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765421332590</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1765421332590</updated>
+    </task>
+    <task id="LOCAL-00023" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765422910019</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1765422910019</updated>
+    </task>
+    <task id="LOCAL-00024" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765423075616</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1765423075616</updated>
+    </task>
+    <task id="LOCAL-00025" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765423190695</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1765423190695</updated>
+    </task>
+    <task id="LOCAL-00026" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765423349692</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1765423349692</updated>
+    </task>
+    <task id="LOCAL-00027" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765423660386</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1765423660386</updated>
+    </task>
+    <task id="LOCAL-00028" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765424055975</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1765424055975</updated>
+    </task>
+    <task id="LOCAL-00029" summary="初始化">
+      <option name="closed" value="true" />
+      <created>1765424236010</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1765424236010</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
